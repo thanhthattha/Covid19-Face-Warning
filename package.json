@@ -2,7 +2,7 @@
   "name": "face-warning",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vuikonao.github.io/face-warning/",
+  "homepage": "http://vuikonao.github.io/face-warning",
   "dependencies": {
     "@mycv/f8-notification": "^1.0.1",
     "@tensorflow-models/knn-classifier": "^1.2.2",
