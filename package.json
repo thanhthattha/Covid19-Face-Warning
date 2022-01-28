@@ -2,7 +2,6 @@
   "name": "face-warning",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://vuikonao.github.io/face-warning",
   "dependencies": {
     "@mycv/f8-notification": "^1.0.1",
     "@tensorflow-models/knn-classifier": "^1.2.2",
@@ -22,9 +21,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
